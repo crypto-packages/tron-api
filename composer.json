@@ -22,7 +22,7 @@
         "php": "^7.4|^8.0|^8.1",
         "crypto-packages/data-types": "dev-master",
         "guzzlehttp/guzzle": "^7.0|^7.1|^7.2|^7.3|^7.4",
-        "web3p/web3.php": "dev-master",
+        "web3p/web3.php": "0.1.6",
         "kornrunner/secp256k1": "^0.2.0",
         "simplito/elliptic-php": "^1.0",
         "ext-json": "*",
